@@ -1,3 +1,4 @@
+                                         DEPRESSION DETECTION SYSTEM USING MACHINE LERANING 
 **************MODELS*********************
 from django.db import models
 
